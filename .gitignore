@@ -1,4 +1,6 @@
 *.h
+*.inl
+*.hpp
 # Prerequisites
 *.d
 
